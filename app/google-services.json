@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "832732470567",
+    "firebase_url": "https://ussd-9cad2.firebaseio.com",
+    "project_id": "ussd-9cad2",
+    "storage_bucket": "ussd-9cad2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832732470567:android:c817e8374d2bf218",
+        "android_client_info": {
+          "package_name": "club.pbreakers.ussd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832732470567-a6gj1nqvtr0q14v6agl97slfeg8b1ali.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "club.pbreakers.ussd",
+            "certificate_hash": "81534b54c76fba72860c59eabf4c107e310d9327"
+          }
+        },
+        {
+          "client_id": "832732470567-i3qhf9osk656c64hm7kthpc1kqf6p8qq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0NaLphEfkg8cg09E_3fFxW9OML0GZ3_Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832732470567-i3qhf9osk656c64hm7kthpc1kqf6p8qq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
